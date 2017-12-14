@@ -1,0 +1,102 @@
+.headerMenu{
+	background-color: #343A40 !important;
+}
+
+#content .page {
+    display: none;
+}
+
+#content .h1Carousel{
+    color: black;
+}
+
+#content .imgCarousel{
+    width: 100%;
+    height: 75%;
+}
+
+/*#content .liCarousel{
+    background-color: blue;
+}
+*/
+
+.carousel-indicators .active {
+    background-color: #aaa;
+}
+
+#content .funcionalidadesSistema{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+#content .divBotaoForm{
+    position: relative;
+    padding-left: 25%;
+}
+
+#content #contato {
+    margin-bottom: 10%;
+    margin-top: 10%;
+}
+
+.footer{
+    background-color: #1f1f1f;
+    color: #aaa;
+    padding-bottom: 1%;
+}
+
+.footer-info{
+    padding-top: 0em;
+}
+
+.footerSpan0{
+    margin-left: 0.4em;
+	padding-top: 0em;
+}
+
+.footerSpan1{
+    margin-left: 0.4em;
+	padding-top: 0em;
+}
+
+.footerI0{
+    margin-bottom: -2em;
+	margin-top: 0.3em;
+    margin-right: 1%;
+}
+
+.footerI1{
+    margin-bottom: -2em;
+	margin-top: 0.3em;
+}
+
+.footerI2{
+    margin-bottom: -2em;
+	margin-top: 0.3em;
+}
+
+@media (max-width: 640px) {
+    .footerI0{
+        margin-bottom: 0em;
+    }
+}
+
+/*@media (max-width: 768px) {
+    
+}
+
+@media (min-width: 900px) {
+    
+}
+
+@media (min-width: 1024px) {
+    
+}
+
+@media (min-width: 720px) {
+    
+}
+
+@media (min-width: 640px) {
+    
+}*/

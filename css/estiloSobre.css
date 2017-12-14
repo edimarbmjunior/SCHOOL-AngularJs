@@ -1,0 +1,69 @@
+.headerMenu{
+	background-color: #343A40 !important;
+}
+
+.LinhaSuperior{
+    width: 100%;
+	height: 7.7em;
+	background-color: #6495ED;
+}
+
+.h3Header{
+    color: azure;
+}
+
+.pHeader{
+    color: white;
+    font-style: oblique;
+    font-weight: bold;
+        margin-bottom: 0.1%;
+}
+
+.textsobre{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+#content #contato {
+    margin-bottom: 10%;
+    margin-top: 10%;
+}
+
+.footerAbout{
+	height: 29.2%;
+}
+
+.footer{
+    background-color: #1f1f1f;
+    color: #aaa;
+    padding-bottom: 1%;
+}
+
+.footer-info{
+    padding-top: 0em;
+}
+
+.footerSpan0{
+    margin-left: 0.4em;
+	padding-top: 0em;
+}
+
+.footerSpan1{
+    margin-left: 0.4em;
+	padding-top: 0em;
+}
+
+.footerI0{
+    margin-bottom: -2em;
+	margin-top: 0.3em;
+}
+
+.footerI1{
+    margin-bottom: -2em;
+	margin-top: 0.3em;
+}
+
+.footerI2{
+    margin-bottom: -2em;
+	margin-top: 0.3em;
+}
